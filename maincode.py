@@ -64,7 +64,7 @@ async def search(ctx: commands.Context, *, search: str):
 
 
 bot.run(
-    "MTAwMTE1NTc5MTY4NTk2Mzc4OA.GvEtZM.CrlPw0QXK29otIinBJfb4ohn_lh0INYErmhqPE",
+    "insert token here",
     log_level=logging.WARNING,
 )
 print("sus much")
